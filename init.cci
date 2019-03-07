@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:4E676407
+NODE:V LEVEL:0 LINE:1 "dem -> R4"
+NODE:V LEVEL:0 LINE:2 "dem1 -> R6,R7"
+NODE:V LEVEL:0 LINE:3 "xx -> R9"
+NODE:V LEVEL:0 LINE:4 "goc_servo_1 -> R8"
+NODE:V LEVEL:0 LINE:4 "goc_servo_2 -> R11"
+NODE:V LEVEL:0 LINE:6 "goc_servo_7 -> R12,R13"
+NODE:V LEVEL:0 LINE:6 "goc_servo_8 -> RAM:????"
+NODE:F LEVEL:0 LINE:8 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:19 "timer2_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:32 "init(void)"
